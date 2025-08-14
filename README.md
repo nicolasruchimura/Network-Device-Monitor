@@ -8,7 +8,7 @@ A Python tool to monitor network devices' availability and fetch their geolocati
 - **Simple Dashboard**: Web interface to view results (Flask)
 - **Lightweight**: Only 3 dependencies
 - **Extensible**: Easy to add email alerts or logging
-- 
+  
 - ##  Tech Stack
 - **Python 3** (Core)
 - Libraries:
@@ -21,4 +21,5 @@ A Python tool to monitor network devices' availability and fetch their geolocati
 ```bash
 git clone https://github.com/nicolasruchimura/Network-Device-Monitor.git
 cd network-device-monitor
+
 
