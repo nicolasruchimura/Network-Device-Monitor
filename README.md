@@ -15,9 +15,10 @@ A Python tool to monitor network devices' availability and fetch their geolocati
   - `ping3` - For ICMP ping checks
   - `requests` - For API calls
   - `Flask` - For web dashboard
-  - 
+    
 ## Installation
 1. Clone the repo:
 ```bash
 git clone https://github.com/nicolasruchimura/Network-Device-Monitor.git
 cd network-device-monitor
+
