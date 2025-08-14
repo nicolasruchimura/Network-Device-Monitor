@@ -9,7 +9,7 @@ A Python tool to monitor network devices' availability and fetch their geolocati
 - **Lightweight**: Only 3 dependencies
 - **Extensible**: Easy to add email alerts or logging
   
-- ##  Tech Stack
+##  Tech Stack
 - **Python 3** (Core)
 - Libraries:
   - `ping3` - For ICMP ping checks
@@ -21,5 +21,6 @@ A Python tool to monitor network devices' availability and fetch their geolocati
 ```bash
 git clone https://github.com/nicolasruchimura/Network-Device-Monitor.git
 cd network-device-monitor
+
 
 
